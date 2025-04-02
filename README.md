@@ -1,4 +1,4 @@
-# 🎓 Teacher Course Management System
+# 🎓 Teacher - Course Management System
 
  An object-oriented Java application designed to manage teachers, their assigned courses, and calculate their total salaries, including extra payments.
 
