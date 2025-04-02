@@ -1,19 +1,17 @@
 # 🎓 Teacher Course Management System
 
-🧾 An object-oriented Java application designed to manage teachers, their assigned courses, and calculate their total salaries, including extra payments.
+ An object-oriented Java application designed to manage teachers, their assigned courses, and calculate their total salaries, including extra payments.
 
 ## 📚 Table of Contents
 
-- [📖 Overview](#-overview)
-- [✨ Features](#-features)
-- [🏗️ Class Structure](#️-class-structure)
-- [🚀 Getting Started](#-getting-started)
-  - [🛠️ Prerequisites](#️-prerequisites)
-  - [📦 Installation](#-installation)
-- [🧪 Usage](#-usage)
-- [🧭 UML Diagram](#-uml-diagram)
-- [🤝 Contributing](#-contributing)
-- [🪪 License](#-license)
+- [ Overview](#-overview)
+- [ Features](#-features)
+- [ Class Structure](#️-class-structure)
+- [ Getting Started](#-getting-started)
+  - [ Prerequisites](#️-prerequisites)
+  - [ Installation](#-installation)
+- [ Usage](#-usage)
+- [ UML Diagram](#-uml-diagram)
 
 ## 📖 Overview
 
@@ -98,11 +96,3 @@ Below are the UML diagrams for the `Teacher` and `Course` classes:
   <img src="uml_teacher.jpg" alt="Teacher UML" width="45%" style="margin-right: 10px;"/>
   <img src="uml_course.jpg" alt="Course UML" width="45%"/>
 </p>
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## 🪪 License
-
-This project is open-source and available under the [MIT License](LICENSE).
