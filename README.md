@@ -92,7 +92,12 @@ The `Main` class serves as the driver, facilitating user interaction through a m
 
 ## 🧭 UML Diagram
 
-For a visual representation of the class structure and relationships, refer to the [UML Diagram](umls.pdf) included in the repository.
+Below are the UML diagrams for the `Teacher` and `Course` classes:
+
+<p align="center">
+  <img src="uml_teacher.jpg" alt="Teacher UML" width="45%" style="margin-right: 10px;"/>
+  <img src="uml_course.jpg" alt="Course UML" width="45%"/>
+</p>
 
 ## 🤝 Contributing
 
